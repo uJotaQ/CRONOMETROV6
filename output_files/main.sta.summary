@@ -1,0 +1,517 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Setup 'CLK'
+Slack : -2.567
+TNS   : -8.019
+
+Type  : Setup 'duzen_sec:ds|tFlipFlop:TFF2|Q'
+Slack : -1.239
+TNS   : -1.239
+
+Type  : Setup 'unit_min:um|tFlipFlop:TFF3|Q'
+Slack : -1.221
+TNS   : -1.221
+
+Type  : Setup 'frequency_divisor:FD|dFlipFlop:F0|q'
+Slack : -1.215
+TNS   : -1.215
+
+Type  : Setup 'dFlipFlop:DFF1|q'
+Slack : -1.204
+TNS   : -1.204
+
+Type  : Setup 'unit_sec:us|tFlipFlop:TFF3|Q'
+Slack : -1.204
+TNS   : -1.204
+
+Type  : Setup 'duzen_min:du|tFlipFlop:TFF1|Q'
+Slack : -1.194
+TNS   : -1.194
+
+Type  : Setup 'unit_sec:us|tFlipFlop:TFF1|Q'
+Slack : 0.286
+TNS   : 0.000
+
+Type  : Setup 'frequency_divisor:FD|delay:DL1|dFlipFlop:F0|q'
+Slack : 0.466
+TNS   : 0.000
+
+Type  : Setup 'frequency_divisor:FD|delay:DL3|dFlipFlop:F3|q'
+Slack : 0.466
+TNS   : 0.000
+
+Type  : Setup 'frequency_divisor:FD|delay:DL4|dFlipFlop:F3|q'
+Slack : 0.466
+TNS   : 0.000
+
+Type  : Setup 'frequency_divisor:FD|delay:DL1|dFlipFlop:F4|q'
+Slack : 0.467
+TNS   : 0.000
+
+Type  : Setup 'frequency_divisor:FD|delay:DL2|dFlipFlop:F0|q'
+Slack : 0.467
+TNS   : 0.000
+
+Type  : Setup 'frequency_divisor:FD|delay:DL2|dFlipFlop:F2|q'
+Slack : 0.467
+TNS   : 0.000
+
+Type  : Setup 'frequency_divisor:FD|delay:DL2|dFlipFlop:F4|q'
+Slack : 0.467
+TNS   : 0.000
+
+Type  : Setup 'frequency_divisor:FD|delay:DL3|dFlipFlop:F1|q'
+Slack : 0.467
+TNS   : 0.000
+
+Type  : Setup 'frequency_divisor:FD|delay:DL3|dFlipFlop:F5|q'
+Slack : 0.467
+TNS   : 0.000
+
+Type  : Setup 'frequency_divisor:FD|delay:DL4|dFlipFlop:F1|q'
+Slack : 0.467
+TNS   : 0.000
+
+Type  : Setup 'frequency_divisor:FD|delay:DL4|dFlipFlop:F5|q'
+Slack : 0.522
+TNS   : 0.000
+
+Type  : Setup 'frequency_divisor:FD|delay:DL3|dFlipFlop:F0|q'
+Slack : 0.800
+TNS   : 0.000
+
+Type  : Setup 'frequency_divisor:FD|delay:DL1|dFlipFlop:F5|q'
+Slack : 0.819
+TNS   : 0.000
+
+Type  : Setup 'frequency_divisor:FD|delay:DL2|dFlipFlop:F1|q'
+Slack : 0.819
+TNS   : 0.000
+
+Type  : Setup 'frequency_divisor:FD|delay:DL2|dFlipFlop:F3|q'
+Slack : 0.819
+TNS   : 0.000
+
+Type  : Setup 'frequency_divisor:FD|delay:DL4|dFlipFlop:F0|q'
+Slack : 0.819
+TNS   : 0.000
+
+Type  : Setup 'frequency_divisor:FD|delay:DL1|dFlipFlop:F3|q'
+Slack : 0.825
+TNS   : 0.000
+
+Type  : Setup 'frequency_divisor:FD|delay:DL3|dFlipFlop:F4|q'
+Slack : 0.825
+TNS   : 0.000
+
+Type  : Setup 'frequency_divisor:FD|delay:DL4|dFlipFlop:F4|q'
+Slack : 0.826
+TNS   : 0.000
+
+Type  : Setup 'unit_sec:us|tFlipFlop:TFF2|Q'
+Slack : 0.862
+TNS   : 0.000
+
+Type  : Setup 'unit_min:um|tFlipFlop:TFF2|Q'
+Slack : 0.945
+TNS   : 0.000
+
+Type  : Setup 'frequency_divisor:FD|delay:DL4|dFlipFlop:F2|q'
+Slack : 1.088
+TNS   : 0.000
+
+Type  : Setup 'frequency_divisor:FD|delay:DL1|dFlipFlop:F1|q'
+Slack : 1.228
+TNS   : 0.000
+
+Type  : Setup 'duzen_sec:ds|tFlipFlop:TFF1|Q'
+Slack : 1.314
+TNS   : 0.000
+
+Type  : Setup 'frequency_divisor:FD|delay:DL3|dFlipFlop:F2|q'
+Slack : 1.424
+TNS   : 0.000
+
+Type  : Setup 'frequency_divisor:FD|delay:DL1|dFlipFlop:F2|q'
+Slack : 1.547
+TNS   : 0.000
+
+Type  : Setup 'unit_min:um|tFlipFlop:TFF1|Q'
+Slack : 1.810
+TNS   : 0.000
+
+Type  : Setup 'frequency_divisor:FD|delay:DL2|dFlipFlop:F5|q'
+Slack : 2.887
+TNS   : 0.000
+
+Type  : Hold 'duzen_sec:ds|tFlipFlop:TFF1|Q'
+Slack : -3.834
+TNS   : -5.202
+
+Type  : Hold 'unit_min:um|tFlipFlop:TFF1|Q'
+Slack : -3.675
+TNS   : -5.539
+
+Type  : Hold 'unit_min:um|tFlipFlop:TFF3|Q'
+Slack : -3.380
+TNS   : -3.380
+
+Type  : Hold 'unit_sec:us|tFlipFlop:TFF2|Q'
+Slack : -3.314
+TNS   : -4.230
+
+Type  : Hold 'frequency_divisor:FD|delay:DL2|dFlipFlop:F5|q'
+Slack : -3.088
+TNS   : -6.029
+
+Type  : Hold 'unit_sec:us|tFlipFlop:TFF1|Q'
+Slack : -3.066
+TNS   : -3.406
+
+Type  : Hold 'unit_sec:us|tFlipFlop:TFF3|Q'
+Slack : -3.003
+TNS   : -3.003
+
+Type  : Hold 'frequency_divisor:FD|dFlipFlop:F0|q'
+Slack : -2.583
+TNS   : -2.583
+
+Type  : Hold 'duzen_sec:ds|tFlipFlop:TFF2|Q'
+Slack : -2.378
+TNS   : -2.378
+
+Type  : Hold 'unit_min:um|tFlipFlop:TFF2|Q'
+Slack : -2.269
+TNS   : -3.268
+
+Type  : Hold 'CLK'
+Slack : -1.807
+TNS   : -1.807
+
+Type  : Hold 'frequency_divisor:FD|delay:DL1|dFlipFlop:F2|q'
+Slack : -1.601
+TNS   : -1.601
+
+Type  : Hold 'frequency_divisor:FD|delay:DL3|dFlipFlop:F2|q'
+Slack : -1.478
+TNS   : -1.478
+
+Type  : Hold 'frequency_divisor:FD|delay:DL1|dFlipFlop:F1|q'
+Slack : -1.282
+TNS   : -1.282
+
+Type  : Hold 'frequency_divisor:FD|delay:DL4|dFlipFlop:F2|q'
+Slack : -1.142
+TNS   : -1.142
+
+Type  : Hold 'frequency_divisor:FD|delay:DL4|dFlipFlop:F4|q'
+Slack : -0.880
+TNS   : -0.880
+
+Type  : Hold 'frequency_divisor:FD|delay:DL1|dFlipFlop:F3|q'
+Slack : -0.879
+TNS   : -0.879
+
+Type  : Hold 'frequency_divisor:FD|delay:DL3|dFlipFlop:F4|q'
+Slack : -0.879
+TNS   : -0.879
+
+Type  : Hold 'frequency_divisor:FD|delay:DL1|dFlipFlop:F5|q'
+Slack : -0.873
+TNS   : -0.873
+
+Type  : Hold 'frequency_divisor:FD|delay:DL2|dFlipFlop:F1|q'
+Slack : -0.873
+TNS   : -0.873
+
+Type  : Hold 'frequency_divisor:FD|delay:DL2|dFlipFlop:F3|q'
+Slack : -0.873
+TNS   : -0.873
+
+Type  : Hold 'frequency_divisor:FD|delay:DL4|dFlipFlop:F0|q'
+Slack : -0.873
+TNS   : -0.873
+
+Type  : Hold 'frequency_divisor:FD|delay:DL3|dFlipFlop:F0|q'
+Slack : -0.854
+TNS   : -0.854
+
+Type  : Hold 'frequency_divisor:FD|delay:DL4|dFlipFlop:F5|q'
+Slack : -0.576
+TNS   : -0.576
+
+Type  : Hold 'frequency_divisor:FD|delay:DL1|dFlipFlop:F4|q'
+Slack : -0.521
+TNS   : -0.521
+
+Type  : Hold 'frequency_divisor:FD|delay:DL2|dFlipFlop:F0|q'
+Slack : -0.521
+TNS   : -0.521
+
+Type  : Hold 'frequency_divisor:FD|delay:DL2|dFlipFlop:F2|q'
+Slack : -0.521
+TNS   : -0.521
+
+Type  : Hold 'frequency_divisor:FD|delay:DL2|dFlipFlop:F4|q'
+Slack : -0.521
+TNS   : -0.521
+
+Type  : Hold 'frequency_divisor:FD|delay:DL3|dFlipFlop:F1|q'
+Slack : -0.521
+TNS   : -0.521
+
+Type  : Hold 'frequency_divisor:FD|delay:DL3|dFlipFlop:F5|q'
+Slack : -0.521
+TNS   : -0.521
+
+Type  : Hold 'frequency_divisor:FD|delay:DL4|dFlipFlop:F1|q'
+Slack : -0.521
+TNS   : -0.521
+
+Type  : Hold 'frequency_divisor:FD|delay:DL1|dFlipFlop:F0|q'
+Slack : -0.520
+TNS   : -0.520
+
+Type  : Hold 'frequency_divisor:FD|delay:DL3|dFlipFlop:F3|q'
+Slack : -0.520
+TNS   : -0.520
+
+Type  : Hold 'frequency_divisor:FD|delay:DL4|dFlipFlop:F3|q'
+Slack : -0.520
+TNS   : -0.520
+
+Type  : Hold 'duzen_min:du|tFlipFlop:TFF1|Q'
+Slack : 1.640
+TNS   : 0.000
+
+Type  : Hold 'dFlipFlop:DFF1|q'
+Slack : 1.650
+TNS   : 0.000
+
+Type  : Recovery 'unit_sec:us|tFlipFlop:TFF1|Q'
+Slack : -12.521
+TNS   : -19.748
+
+Type  : Recovery 'unit_sec:us|tFlipFlop:TFF2|Q'
+Slack : -12.153
+TNS   : -19.132
+
+Type  : Recovery 'unit_sec:us|tFlipFlop:TFF3|Q'
+Slack : -10.618
+TNS   : -17.908
+
+Type  : Recovery 'duzen_sec:ds|tFlipFlop:TFF2|Q'
+Slack : -9.728
+TNS   : -17.075
+
+Type  : Recovery 'duzen_sec:ds|tFlipFlop:TFF1|Q'
+Slack : -9.346
+TNS   : -15.237
+
+Type  : Recovery 'unit_min:um|tFlipFlop:TFF3|Q'
+Slack : -9.339
+TNS   : -15.970
+
+Type  : Recovery 'unit_min:um|tFlipFlop:TFF2|Q'
+Slack : -9.169
+TNS   : -16.911
+
+Type  : Recovery 'unit_min:um|tFlipFlop:TFF1|Q'
+Slack : -8.319
+TNS   : -14.655
+
+Type  : Recovery 'duzen_min:du|tFlipFlop:TFF1|Q'
+Slack : -8.195
+TNS   : -8.195
+
+Type  : Recovery 'frequency_divisor:FD|dFlipFlop:F0|q'
+Slack : -8.184
+TNS   : -8.184
+
+Type  : Removal 'unit_min:um|tFlipFlop:TFF1|Q'
+Slack : 0.883
+TNS   : 0.000
+
+Type  : Removal 'duzen_sec:ds|tFlipFlop:TFF1|Q'
+Slack : 0.991
+TNS   : 0.000
+
+Type  : Removal 'unit_min:um|tFlipFlop:TFF2|Q'
+Slack : 2.639
+TNS   : 0.000
+
+Type  : Removal 'unit_min:um|tFlipFlop:TFF3|Q'
+Slack : 4.377
+TNS   : 0.000
+
+Type  : Removal 'unit_sec:us|tFlipFlop:TFF2|Q'
+Slack : 4.635
+TNS   : 0.000
+
+Type  : Removal 'duzen_sec:ds|tFlipFlop:TFF2|Q'
+Slack : 4.819
+TNS   : 0.000
+
+Type  : Removal 'unit_sec:us|tFlipFlop:TFF1|Q'
+Slack : 4.973
+TNS   : 0.000
+
+Type  : Removal 'unit_sec:us|tFlipFlop:TFF3|Q'
+Slack : 5.036
+TNS   : 0.000
+
+Type  : Removal 'duzen_min:du|tFlipFlop:TFF1|Q'
+Slack : 5.086
+TNS   : 0.000
+
+Type  : Removal 'frequency_divisor:FD|dFlipFlop:F0|q'
+Slack : 5.930
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'CLK'
+Slack : -2.289
+TNS   : -2.289
+
+Type  : Minimum Pulse Width 'dFlipFlop:DFF1|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'duzen_min:du|tFlipFlop:TFF1|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'duzen_sec:ds|tFlipFlop:TFF1|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'duzen_sec:ds|tFlipFlop:TFF2|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'frequency_divisor:FD|dFlipFlop:F0|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'frequency_divisor:FD|delay:DL1|dFlipFlop:F0|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'frequency_divisor:FD|delay:DL1|dFlipFlop:F1|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'frequency_divisor:FD|delay:DL1|dFlipFlop:F2|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'frequency_divisor:FD|delay:DL1|dFlipFlop:F3|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'frequency_divisor:FD|delay:DL1|dFlipFlop:F4|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'frequency_divisor:FD|delay:DL1|dFlipFlop:F5|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'frequency_divisor:FD|delay:DL2|dFlipFlop:F0|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'frequency_divisor:FD|delay:DL2|dFlipFlop:F1|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'frequency_divisor:FD|delay:DL2|dFlipFlop:F2|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'frequency_divisor:FD|delay:DL2|dFlipFlop:F3|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'frequency_divisor:FD|delay:DL2|dFlipFlop:F4|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'frequency_divisor:FD|delay:DL2|dFlipFlop:F5|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'frequency_divisor:FD|delay:DL3|dFlipFlop:F0|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'frequency_divisor:FD|delay:DL3|dFlipFlop:F1|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'frequency_divisor:FD|delay:DL3|dFlipFlop:F2|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'frequency_divisor:FD|delay:DL3|dFlipFlop:F3|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'frequency_divisor:FD|delay:DL3|dFlipFlop:F4|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'frequency_divisor:FD|delay:DL3|dFlipFlop:F5|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'frequency_divisor:FD|delay:DL4|dFlipFlop:F0|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'frequency_divisor:FD|delay:DL4|dFlipFlop:F1|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'frequency_divisor:FD|delay:DL4|dFlipFlop:F2|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'frequency_divisor:FD|delay:DL4|dFlipFlop:F3|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'frequency_divisor:FD|delay:DL4|dFlipFlop:F4|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'frequency_divisor:FD|delay:DL4|dFlipFlop:F5|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'unit_min:um|tFlipFlop:TFF1|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'unit_min:um|tFlipFlop:TFF2|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'unit_min:um|tFlipFlop:TFF3|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'unit_sec:us|tFlipFlop:TFF1|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'unit_sec:us|tFlipFlop:TFF2|Q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'unit_sec:us|tFlipFlop:TFF3|Q'
+Slack : 0.234
+TNS   : 0.000
+
+------------------------------------------------------------

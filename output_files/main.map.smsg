@@ -1,0 +1,3 @@
+Info (10281): Verilog HDL Declaration information at main.v(3): object "H" differs only in case from object "h" in the same scope File: C:/Users/uJotaQ/Documents/PBL2_Cronometro_V6/main.v Line: 3
+Info (10281): Verilog HDL Declaration information at main.v(3): object "M" differs only in case from object "m" in the same scope File: C:/Users/uJotaQ/Documents/PBL2_Cronometro_V6/main.v Line: 3
+Info (10281): Verilog HDL Declaration information at main.v(3): object "L" differs only in case from object "l" in the same scope File: C:/Users/uJotaQ/Documents/PBL2_Cronometro_V6/main.v Line: 3
