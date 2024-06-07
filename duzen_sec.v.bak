@@ -1,0 +1,17 @@
+module duzen_sec(CLK_IN, CLK_OUT, ADS, BDS, CDS, DDS, EDS, FDS, GDS);
+	
+	input CLK_IN;
+	output CLK_OUT, ADS, BDS, CDS, DDS, EDS, FDS, GDS;
+	
+	wire Q1, Q2, Q3, RST_CLK;
+	
+	// SETANDO RST APÓS CHEGAR NO 0
+	and(RST_CLK, Q1, Q2, Q3);
+	
+	tFlipFlop(.clear(), .CLK(CLK), .T(w1), .Q(Q1), .Q_(), .SET());
+	tFlipFlop(.clear(RST_CLK), .CLK(Q1), .T(w1), .Q(Q2), .Q_(), .SET());
+	tFlipFlop(.clear(), .CLK(Q2), .T(w1), .Q(Q3), .Q_(), .SET());
+
+
+
+endmodule

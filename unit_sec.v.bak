@@ -1,0 +1,19 @@
+module unit_sec(CLK_IN, P, G, A, CLK_OUT, aus, bus, cus, dus, eus, fus, gus);
+	
+	input CLK_IN, P, G, A;
+	output CLK_OUT, aus, bus, cus, dus, eus, fus, gus;
+	
+	wire I, CLK;
+	
+	//desliga fornaciemnto de clock se não houver irrigação
+	or(I, G, A);
+	and(CLK, I, CLK_IN);
+	
+	
+	
+	
+
+
+
+	
+endmodule
